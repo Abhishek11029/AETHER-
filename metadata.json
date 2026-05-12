@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI",
+  "description": "Enterprise Agentic RAG system for document retrieval and grounded AI chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
